@@ -11,20 +11,24 @@ Zhongyi Shui, *Jianpeng Zhang*\#, Weiwei Cao, Sinuo Wang, Ruizhe Guo, Le Lu, Lin
 
 - Advances in Attention Mechanisms for Medical Image Segmentation \n
 *Jianpeng Zhang*\*, Xiaomin Chen\*, Bing Yang, Qingbiao Guan, Qi Chen, Jian Chen, Qi Wu, Yutong Xie, Yong Xia \n
-*Computer Science Review 2025*
+*Computer Science Review 2025* \n
+[https://www.sciencedirect.com/science/article/pii/S1574013724001047 \[paper\]]
 
 === 2024
 - Bootstrapping Language-Driven Chest CT Image Understanding by Distilling Knowledge from X-ray Expert Models \n
 Weiwei Cao, *Jianpeng Zhang*\#, Yingda Xia, Tony C. W. Mok, Zi Li, Xianghua Ye, Le Lu, Jian Zheng\#, Yuxing Tang, Ling Zhang \n
-*CVPR 2024*
+*CVPR 2024* \n
+[https://openaccess.thecvf.com/content/CVPR2024/papers/Cao_Bootstrapping_Chest_CT_Image_Understanding_by_Distilling_Knowledge_from_X-ray_CVPR_2024_paper.pdf \[paper\]]
 
 - Continual Self-supervised Learning : Towards Universal Multi-modal Medical Data Representation Learning \n 
 Yiwen Ye, Yutong Xie, *Jianpeng Zhang*, Ziyang Chen, Qi Wu, Yong Xia \n
-*CVPR 2024*
+*CVPR 2024* \n
+[https://openaccess.thecvf.com/content/CVPR2024/papers/Ye_Continual_Self-supervised_Learning_Towards_Universal_Multi-modal_Medical_Data_Representation_Learning_CVPR_2024_paper.pdf \[paper\]] [https://github.com/yeerwen/MedCoSS \[Code\]]
 
 - Modality-Agnostic Structural Image Representation Learning for Deformable Multi-Modality Medical Image Registration \n
 Tony C. W. MOK, Zi Li, Yunhao Bai, *Jianpeng Zhang*, Wei Liu, Yan-Jie Zhou, Ke Yan, Dakai Jin, Yu Shi, Xiaoli Yin, Le Lu, Ling Zhang \n 
-*CVPR 2024*
+*CVPR 2024* \n
+[https://openaccess.thecvf.com/content/CVPR2024/papers/Mok_Modality-Agnostic_Structural_Image_Representation_Learning_for_Deformable_Multi-Modality_Medical_Image_CVPR_2024_paper.pdf \[paper\]]
 
 === 2023
 
@@ -57,10 +61,6 @@ Yutong Xie, Lin Gu, Tatsuya Harada, *Jianpeng Zhang*, Yong Xia, Qi Wu \n
 Jieneng Chen, Yingda Xia, Jiawen Yao, Ke Yan, *Jianpeng Zhang*, Le Lu, Fakai Wang, Bo Zhou, Mingyan Qiu, Qihang Yu, Mingze Yuan, Wei Fang, Yuxing Tang, Minfeng Xu, Jian Zhou, Yuqian Zhao, Qifeng Wang, Xianghua Ye, Xiaoli Yin, Yu Shi, Xin Chen, Jingren Zhou, Alan Yuille, Zaiyi Liu, Ling Zhang \n
 *ICCV 2023*
 
-
-- Attention Mechanisms in Medical Image Segmentation: A Survey \n
-Yutong Xie, Bing Yang, Qingbiao Guan, *Jianpeng Zhang*, Qi Wu, Yong Xia \n
-[https://arxiv.org/pdf/2305.17937.pdf  \[arXiv\]] \[Over 300 references\]
 
 - Learning from partially labeled data for multi-organ and tumor segmentation \n
 Yutong Xie, *Jianpeng Zhang*, Yong Xia, Chunhua Shen \n
