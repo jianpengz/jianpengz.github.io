@@ -3,23 +3,23 @@
 
 ~~~
 {}{img_left}{pic/cv_photo.png}{alt text}{160}{160}{https://jianpengz.github.io/}
-Senior Algorithm Researcher @ Alibaba DAMO Academy \n
-Postdoc Research Fellow @ Zhejiang University \n
+Staff Algorithm Engineer @ Alibaba DAMO Academy \n
 
 E-mail: jianpeng\[dot\]zhang0\[at\]gmail\[dot\]com \n
-[https://scholar.google.com/citations?user=KBIydr4AAAAJ&hl=en \[Google Scholar\]] [https://github.com/jianpengz \[Github\]]
+[https://scholar.google.com/citations?user=KBIydr4AAAAJ&hl=en \[Google Scholar\]] 
 ~~~
 
 == Biography
-I am a senior algorithm researcher at Alibaba DAMO Academy, and am also a postdoc researcher at Zhejiang University. Before that, I was a research fellow at the Australia Institute for Machine Learning (AIML), University of Adelaide (UoA), Australia, jointly work with Dr. [https://researchers.adelaide.edu.au/profile/johan.verjans\#my-research Johan Verjans]. Before that, I was a visitor at UoA under the supervision of Prof. [https://cshen.github.io/ Chunhua Shen]. 
+I am currently a Staff Algorithm Engineer at Alibaba DAMO Academy. I previously worked as a postdoctoral researcher at Zhejiang University. Prior to that, I was a Research Fellow at the Australian Institute for Machine Learning (AIML), University of Adelaide (UoA), where I collaborated with Dr. [https://researchers.adelaide.edu.au/profile/johan.verjans\#my-research Johan Verjans]. Before joining AIML, I was a visiting researcher at UoA under the supervision of Prof. [https://cshen.github.io/ Chunhua Shen].
 
-My research interests span a broad spectrum in the medical AI domain, including but not limited to multi-modal learning, large langauge model, and vision-language pre-training. The core objective of my work is to harness the potential of AI technology in clinical environments, thereby enhancing its value through direct applications that benefit healthcare professionals and patients alike.
+My research interests span a broad spectrum in AI for healthcare, including but not limited to multi-modal learning, large langauge model, and vision-language pre-training. The core objective of my work is to harness the potential of AI technology in clinical environments, thereby enhancing its value through direct applications that benefit healthcare professionals and patients alike.
 
 ==== We are recruiting interns with a passion and research background in multi-modal large language models. If you are interested, please send me your resume.
 
 
 === News
 - \[Apr 2026\]   Our paper on CRC screening has been accepted by Annals of Oncology (IF 65.4)!
+- \[Apr 2026\]   Our paper on report generation evaluation has been accepted by ACL 2026 Main Conference!
 - \[Sep 2025\]   I will serve as an Area Chair for ICLR 2026!
 - \[Aug 2025\]   I will serve as an Area Chair for CVPR 2026!
 - \[Jun 2025\]   One paper on medical vision-language pre-training has been accepted by ICCV 2025!
